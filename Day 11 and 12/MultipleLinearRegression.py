@@ -17,3 +17,20 @@ Predict the sales of a product based on its price, advertising, and distribution
 Predict the risk of a patient developing a disease based on their age, sex, and medical history
 Multiple linear regression is a powerful tool that can be used to make predictions about a variety of phenomena. However, it is important to remember that multiple linear regression is only a model. It is not a perfect representation of reality. As such, it is important to interpret the results of multiple linear regression with caution.
 """
+class MeraLR:
+    
+    def __init__(self):
+        self.coef_ = None
+        self.intercept_ = None
+        
+    def fit(self,X_train,y_train):
+        X_train = np.insert(X_train,0,1,axis=1)
+        
+        # calcuate the coeffs
+        betas = np.linalg.inv(np.dot(X_train.T,X_train)).dot(X_train.T).dot(y_train)
+        self.intercept_ = betas[0]
+        self.coef_ = betas[1:]
+    
+    def predict(self,X_test):
+        y_pred = np.dot(X_test,self.coef_) + self.intercept_
+        return y_pred
