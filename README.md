@@ -25,7 +25,23 @@
 
 ### Feature Engineering
 - [x] Introduction
-- [ ] Scaling - Standarsization and Normalisation
-- [ ] Encoding Categorical Data - Ordinal Encoding and One Hot Encoding
+- [x] Scaling - Standarsization and Normalisation
+- [x] Encoding Categorical Data - Ordinal Encoding and One Hot Encoding
 - [ ] Column Transformations
 - [ ] Power Transformer
+- [ ] Function Transformer
+- [ ] Log Transform
+- [ ] Reciprocal Transform
+- [ ] Square Root Transform
+- [ ] Box - Cox Transform
+- [ ] Yeo - Johnson Transform
+- [ ] Binning and Binarization
+- [ ] Discretization
+- [ ] Quantile Binning
+- [ ] KMeans Binning
+
+###Modeling 
+- [x] Simple Linear Regression
+- [x] Regression Metrics
+- [x] Multiple Linear Regression
+- [x] Batch Gradient Descent
