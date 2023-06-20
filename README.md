@@ -27,7 +27,7 @@
 - [x] Introduction
 - [x] Scaling - Standarsization and Normalisation
 - [x] Encoding Categorical Data - Ordinal Encoding and One Hot Encoding
-- [ ] Column Transformations
+- [x] Column Transformations
 - [ ] Power Transformer
 - [ ] Function Transformer
 - [ ] Log Transform
@@ -45,3 +45,4 @@
 - [x] Regression Metrics
 - [x] Multiple Linear Regression
 - [x] Batch Gradient Descent
+- [x] Stochastic Gradient Descent
