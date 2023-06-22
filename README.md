@@ -15,6 +15,7 @@
 - [x] Working with JSON files
 - [x] Fetching data from API
 - [ ] Fetchind data from a DB (MySQL)
+- [ ] Web Scraping 
 
 ### Exploratory Data Analysis
 - [x] Questions to ask 
@@ -39,6 +40,7 @@
 - [ ] Discretization
 - [ ] Quantile Binning
 - [ ] KMeans Binning
+- [x] Principal Component Analysis
 
 ###Modeling 
 - [x] Simple Linear Regression
@@ -46,3 +48,5 @@
 - [x] Multiple Linear Regression
 - [x] Batch Gradient Descent
 - [x] Stochastic Gradient Descent
+- [x] Mini Batch Gradient Descent
+- [ ] Polynomial Regression 
