@@ -49,4 +49,6 @@
 - [x] Batch Gradient Descent
 - [x] Stochastic Gradient Descent
 - [x] Mini Batch Gradient Descent
-- [ ] Polynomial Regression 
+- [x] Polynomial Regression
+- [x] Bias Variance Tradeoff
+- [x] Regularisation 
