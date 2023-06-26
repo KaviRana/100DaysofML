@@ -51,4 +51,7 @@
 - [x] Mini Batch Gradient Descent
 - [x] Polynomial Regression
 - [x] Bias Variance Tradeoff
-- [x] Regularisation 
+- [x] Regularisation
+- [x] Perceptron Trick
+- [x] Logistic Regression
+- [ ] Signmoid Function 
