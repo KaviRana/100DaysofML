@@ -15,7 +15,7 @@
 - [x] Working with JSON files
 - [x] Fetching data from API
 - [ ] Fetchind data from a DB (MySQL)
-- [ ] Web Scraping 
+- [x] Web Scraping 
 
 ### Exploratory Data Analysis
 - [x] Questions to ask 
@@ -55,5 +55,5 @@
 - [x] Perceptron Trick
 - [x] Logistic Regression
 - [x] Softmax Regression
-- [ ] Decision Trees
+- [x] Decision Trees and Regression Trees
 
