@@ -57,3 +57,11 @@
 - [x] Softmax Regression
 - [x] Decision Trees and Regression Trees
 
+###Ensembling 
+- [x] Voting
+- [x] Bagging
+- [x] Random Forest
+- [x] AdaBoosting  
+
+###Miscellaneous 
+- [x] Portfolio website using streamlit
