@@ -1,0 +1,12 @@
+
+Regression metrics are used to evaluate the performance of a regression model. They measure the difference between the predicted values and the actual values. The most common regression metrics are:
+
+R-squared measures the proportion of the variance in the dependent variable that is explained by the independent variables. A higher R-squared indicates a better fit.
+Mean squared error (MSE) measures the average squared difference between the predicted values and the actual values. A lower MSE indicates a better fit.
+Root mean squared error (RMSE) is the square root of the MSE. It is a measure of the average distance between the predicted values and the actual values. A lower RMSE indicates a better fit.
+Mean absolute error (MAE) measures the average absolute difference between the predicted values and the actual values. A lower MAE indicates a better fit.
+The choice of which metric to use will depend on the specific problem and the desired outcome. For example, if you are trying to minimize the cost of a product, then you might want to use MSE or RMSE. If you are trying to minimize the number of errors, then you might want to use MAE.
+
+It is also important to note that different metrics can be more or less sensitive to different types of errors. For example, MSE is more sensitive to outliers than MAE. This means that if your data has a few outliers, then MSE might not be the best metric to use.
+
+Overall, there is no single "best" regression metric. The best metric to use will depend on the specific problem and the desired outcome.
