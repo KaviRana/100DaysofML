@@ -1,6 +1,14 @@
 import pandas as pd
 import re
 import string
+import nltk
+from nltk.stem import WordNetLemmatizer
+from textblob import TextBlob
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+import emoji
+nltk.download('stopwords')
 
 input_string = "Hello World!"
 # Convert the string to lowercase
@@ -51,9 +59,6 @@ def replace_chat_words(text, chat_dict):
     return replaced_text
 
 
-from textblob import TextBlob
-
-
 def correct_spelling(text):
     # Create a TextBlob object
     blob = TextBlob(text)
@@ -66,10 +71,6 @@ def correct_spelling(text):
 """Stopwords are common words that are often removed during text preprocessing in NLP tasks. They have little value in conveying the overall meaning. 
 Removing stopwords can reduce dimensionality and speed up processing, but in some tasks, like sentiment analysis or named entity recognition, 
 it may not be suitable as they carry contextual information. The decision to remove stopwords depends on the specific NLP task and language used."""
-import nltk
-from nltk.corpus import stopwords
-
-nltk.download('stopwords')
 
 
 def remove_stopwords(text):
@@ -78,9 +79,6 @@ def remove_stopwords(text):
     processed_text = ' '.join(filtered_words)
 
     return processed_text
-
-
-import re
 
 
 def remove_emojis(text):
@@ -122,7 +120,7 @@ def replace_emojis_with_sentiment(text):
 To tokenize a paragraph for text preprocessing, you can use the Natural Language Toolkit (nltk) library in Python. 
 The **`nltk`** library provides various tokenizers, including word tokenization and sentence tokenization."""
 import nltk
-from nltk.tokenize import word_tokenize
+
 # Sample paragraph
 paragraph = "Natural Language Processing (NLP) is a subfield of artificial intelligence that focuses on the interaction between computers and human language."
 
@@ -135,8 +133,7 @@ and pronouns to indicate their role in a sentence and to create different forms 
 Stemming is a natural language processing (NLP) technique used to reduce words to their base or root form, 
 known as the "stem," by removing suffixes or prefixes. The resulting stem may not always be a valid word, but 
 it represents the core meaning of the word."""
-import nltk
-from nltk.stem import PorterStemmer
+
 
 words = ["running", "runs", "runner", "dogs", "cats", "jumping", "jumps"]
 stemmer = PorterStemmer()
@@ -145,8 +142,6 @@ print(stemmed_words)
 """Lemmatization is another natural language processing (NLP) technique used to reduce words to their base or dictionary form, known as the "lemma." Unlike stemming, 
 lemmatization ensures that the resulting word is a valid word found in the dictionary, making it a more linguistically accurate process."""
 
-import nltk
-from nltk.stem import WordNetLemmatizer
 
 # Sample words to be lemmatized
 words = ["running", "runs", "runner", "dogs", "cats", "jumping", "jumps"]

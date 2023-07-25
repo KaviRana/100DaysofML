@@ -47,7 +47,7 @@
 - [x] Principal Component Analysis
 - [x] Imputation Techniques  
 
-### Supervised Machine Learning  
+### Machine Learning  
 - [x] Simple Linear Regression
 - [x] Regression Metrics
 - [x] Multiple Linear Regression
@@ -66,9 +66,14 @@
 - [x] Random Forest Ensemble
 - [x] AdaBoosting Ensemble
 - [x] Gradient Boosting Ensemble
-
-### Unsupervised Machine Learning
 - [x] K means Clustering
 
+### Deep Learning
+- [x] Fundamentals of Tensorflow
+- [x] Types of Neural Networks
+### Natural Language Processing 
+- [x] Text Preprocessing
+- [x] End to End Pipeline Understandin(Theory)
+- 
 ###Miscellaneous 
 - [x] Portfolio website using streamlit
