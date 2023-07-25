@@ -1,11 +1,9 @@
-# 100DaysofCode
-100 days journey learning machine learning with the goal of building a project at the end of the journey. The older repo had some issues and it is not working correctly.
 # 100DaysofML
-### Mathematics
+## Mathematics
 - [x] Descriptive Statistics
 - [x] Probability Distribution Functions
       
-### Introduction to Machine Learning
+## Introduction to Machine Learning
 - [x] What is ML?
 - [x] Types of ML based on Supervision
 - [x] Offline VS Online ML
@@ -14,32 +12,25 @@
 - [x] Machine Learning Development Life Cycle
 - [x] Tensors  
 
-### Sourcing Data
+## Sourcing Data
 - [x] Working with CSV files
 - [x] Working with JSON files
 - [x] Fetching data from API
 - [ ] Fetchind data from a DB (MySQL)
 - [x] Web Scraping 
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 - [x] Questions to ask 
 - [x] Univariate Analysis
 - [x] Bivariate Analysis
 - [x] Multivariate Analysis
 - [x] Pandas Profiling
 
-### Feature Engineering
+## Feature Engineering
 - [x] Introduction
 - [x] Scaling - Standarsization and Normalisation
 - [x] Encoding Categorical Data - Ordinal Encoding and One Hot Encoding
-- [x] Column Transformations
-- [ ] Power Transformer
-- [ ] Function Transformer
-- [ ] Log Transform
-- [ ] Reciprocal Transform
-- [ ] Square Root Transform
-- [ ] Box - Cox Transform
-- [ ] Yeo - Johnson Transform
+- [ ] Column Transformations (Power,Function,Log,Reciprocal,Square Root , Box-Cox and YeoJohnson) 
 - [ ] Binning and Binarization
 - [ ] Discretization
 - [ ] Quantile Binning
@@ -47,7 +38,7 @@
 - [x] Principal Component Analysis
 - [x] Imputation Techniques  
 
-### Machine Learning  
+## Machine Learning  
 - [x] Simple Linear Regression
 - [x] Regression Metrics
 - [x] Multiple Linear Regression
@@ -66,14 +57,23 @@
 - [x] Random Forest Ensemble
 - [x] AdaBoosting Ensemble
 - [x] Gradient Boosting Ensemble
+- [x] Stacking Ensemble
 - [x] K means Clustering
+- [x] Agglomerative Clustering 
+- [x] DBSCAN Clustering 
 
-### Deep Learning
+## Deep Learning
 - [x] Fundamentals of Tensorflow
 - [x] Types of Neural Networks
-### Natural Language Processing 
+- [x] MLP and MLP notation
+
+## Natural Language Processing 
 - [x] Text Preprocessing
 - [x] End to End Pipeline Understandin(Theory)
-- 
-###Miscellaneous 
+- [x] Text Preprocessing (Removing , Tokenisation , Stemming and Lemitisation)
+- [x] Text Representation and Word Embeddings (Word2Vec)
+- [ ] Text Classification
+- [ ] 
+
+## Miscellaneous 
 - [x] Portfolio website using streamlit
