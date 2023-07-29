@@ -5,10 +5,7 @@
       
 ## Introduction to Machine Learning
 - [x] What is ML?
-- [x] Types of ML based on Supervision
-- [x] Offline VS Online ML
-- [x] Instance-Based ML VS Model-Based ML
-- [x] Challenges and Applications
+- [x] Types of ML
 - [x] Machine Learning Development Life Cycle
 - [x] Tensors  
 
@@ -21,9 +18,7 @@
 
 ## Exploratory Data Analysis
 - [x] Questions to ask 
-- [x] Univariate Analysis
-- [x] Bivariate Analysis
-- [x] Multivariate Analysis
+- [x] Univariate, Bivariate , Multivariate Analysis
 - [x] Pandas Profiling
 
 ## Feature Engineering
@@ -42,9 +37,7 @@
 - [x] Simple Linear Regression
 - [x] Regression Metrics
 - [x] Multiple Linear Regression
-- [x] Batch Gradient Descent
-- [x] Stochastic Gradient Descent
-- [x] Mini Batch Gradient Descent
+- [x] Gradient Descent - Batch , Stochastic , Mini Batch 
 - [x] Polynomial Regression
 - [x] Bias Variance Tradeoff
 - [x] Regularisation
@@ -53,8 +46,7 @@
 - [x] Softmax Regression
 - [x] Decision Trees and Regression Trees
 - [x] Voting Ensemble
-- [x] Bagging Ensemble
-- [x] Random Forest Ensemble
+- [x] Bagging Ensemble and Random Forest Ensemble
 - [x] AdaBoosting Ensemble
 - [x] Gradient Boosting Ensemble
 - [x] Stacking Ensemble
@@ -66,6 +58,7 @@
 - [x] Fundamentals of Tensorflow
 - [x] Types of Neural Networks
 - [x] MLP and MLP notation
+- [x] Model.compile() parameters : loss , optimizer , metrics 
 
 ## Natural Language Processing 
 - [x] Text Preprocessing
@@ -73,7 +66,6 @@
 - [x] Text Preprocessing (Removing , Tokenisation , Stemming and Lemitisation)
 - [x] Text Representation and Word Embeddings (Word2Vec)
 - [ ] Text Classification
-- [ ] 
 
 ## Miscellaneous 
 - [x] Portfolio website using streamlit
