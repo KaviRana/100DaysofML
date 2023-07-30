@@ -10,6 +10,8 @@ Topics I have covered :
 ### Mathematics
 - [x] Descriptive Statistics
 - [x] Probability Distribution Functions
+- [x] Gaussian Distribution 
+- [x] Non Gaussian Distributions
       
 ### Introduction to Machine Learning
 - [x] What is ML?
@@ -65,7 +67,9 @@ Topics I have covered :
 - [x] Fundamentals of Tensorflow
 - [x] Types of Neural Networks
 - [x] MLP and MLP notation
-- [x] Model.compile() parameters : loss , optimizer , metrics 
+- [x] Loss Functions in model.compile()
+- [x] Backpropagation Algorithm 
+
 
 ### Natural Language Processing 
 - [x] Text Preprocessing
@@ -74,9 +78,9 @@ Topics I have covered :
 - [x] Text Representation and Word Embeddings (Word2Vec)
 - [x] Text Classification
 
-### Miscellaneous 
-- [x] Portfolio website using streamlit
-
+### Deployment 
+- [x] Streamlit for Web applications 
+- [x] 
 
 ## Resources
 
@@ -89,7 +93,10 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
 2. YouTube Resources
    - Krish Naik 
    - CodeBasics
+   - Danieal Bourke
+   - Gourav Gupta 
    - CampusX
+   - Serrano Academy 
 
 3. Websites and Blogs:
    - Towards Data Science
@@ -100,6 +107,7 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
    - Scikit-learn Documentation
    - TensorFlow Documentation
    - Keras Documentation
+   - Streamlit Documentation
 
 ## Conclusion
 
