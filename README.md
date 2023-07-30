@@ -7,28 +7,28 @@ The 100 Days of Code is a well-known coding challenge that anyone, regardless of
 ## Roadmap 
 Topics I have covered :
 
-# Mathematics
+### Mathematics
 - [x] Descriptive Statistics
 - [x] Probability Distribution Functions
       
-# Introduction to Machine Learning
+### Introduction to Machine Learning
 - [x] What is ML?
 - [x] Types of ML
 - [x] Machine Learning Development Life Cycle
 - [x] Tensors  
 
-# Sourcing Data
+### Sourcing Data
 - [x] Working with CSV files and JSON files
 - [x] Fetching data from API
 - [ ] Fetchind data from a DB (MySQL)
 - [x] Web Scraping using BeautifulSoup 
 
-# Exploratory Data Analysis
+### Exploratory Data Analysis
 - [x] Questions to ask 
 - [x] Univariate, Bivariate , Multivariate Analysis
 - [x] Pandas Profiling
 
-# Feature Engineering
+### Feature Engineering
 - [x] Introduction
 - [x] Scaling - Standarsization and Normalisation
 - [x] Encoding Categorical Data - Ordinal Encoding and One Hot Encoding
@@ -40,7 +40,7 @@ Topics I have covered :
 - [x] Principal Component Analysis
 - [x] Imputation Techniques  
 
-# Machine Learning  
+### Machine Learning  
 - [x] Simple Linear Regression
 - [x] Regression Metrics
 - [x] Multiple Linear Regression
@@ -61,20 +61,20 @@ Topics I have covered :
 - [x] Agglomerative Clustering (Hierarchical)
 - [x] DBSCAN Clustering 
 
-# Deep Learning
+### Deep Learning
 - [x] Fundamentals of Tensorflow
 - [x] Types of Neural Networks
 - [x] MLP and MLP notation
 - [x] Model.compile() parameters : loss , optimizer , metrics 
 
-# Natural Language Processing 
+### Natural Language Processing 
 - [x] Text Preprocessing
 - [x] End to End Pipeline Understandin(Theory)
 - [x] Text Preprocessing (Removing , Tokenisation , Stemming and Lemitisation)
 - [x] Text Representation and Word Embeddings (Word2Vec)
 - [x] Text Classification
 
-## Miscellaneous 
+### Miscellaneous 
 - [x] Portfolio website using streamlit
 
 
