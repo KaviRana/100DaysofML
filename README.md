@@ -68,19 +68,24 @@ Topics I have covered :
 - [x] Types of Neural Networks
 - [x] MLP and MLP notation
 - [x] Loss Functions in model.compile()
-- [x] Backpropagation Algorithm 
+- [ ] Forward Propagation 
+- [ ] Backpropagation Algorithm 
 
 
 ### Natural Language Processing 
 - [x] Text Preprocessing
 - [x] End to End Pipeline Understandin(Theory)
 - [x] Text Preprocessing (Removing , Tokenisation , Stemming and Lemitisation)
+- [x] Parts of Speech Tagging using Spacy
 - [x] Text Representation and Word Embeddings (Word2Vec)
 - [x] Text Classification
 
 ### Deployment 
 - [x] Streamlit for Web applications 
-- [x] 
+- [ ] Restful APIs
+- [ ] Flask
+- [ ] Django
+- [ ] AWS 
 
 ## Resources
 
