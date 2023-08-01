@@ -69,7 +69,8 @@ Topics I have covered :
 - [x] Types of Neural Networks
 - [x] MLP and MLP notation
 - [x] Loss Functions in model.compile()
-- [x] Backpropagation Algorithm 
+- [ ] Forward Propagation 
+- [ ] Backpropagation Algorithm 
 
 
 ### Natural Language Processing 
@@ -82,7 +83,10 @@ Topics I have covered :
 
 ### Deployment 
 - [x] Streamlit for Web applications 
-- [x] 
+- [ ] Restful APIs
+- [ ] Flask
+- [ ] Django
+- [ ] AWS 
 
 ## Resources
 
