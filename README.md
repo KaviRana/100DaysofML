@@ -54,11 +54,12 @@ Topics I have covered :
 - [x] Logistic Regression
 - [x] Softmax Regression
 - [x] Decision Trees and Regression Trees
+- [ ] Support Vector Machines
 - [x] Voting Ensemble
 - [x] Bagging Ensemble and Random Forest Ensemble
 - [x] AdaBoosting Ensemble
 - [x] Gradient Boosting Ensemble
-- [x] Stacking Ensemble
+- [x] Stacking Ensemble 
 - [x] K means Clustering
 - [x] Agglomerative Clustering (Hierarchical)
 - [x] DBSCAN Clustering 
@@ -75,6 +76,7 @@ Topics I have covered :
 - [x] Text Preprocessing
 - [x] End to End Pipeline Understandin(Theory)
 - [x] Text Preprocessing (Removing , Tokenisation , Stemming and Lemitisation)
+- [x] Parts of Speech Tagging using Spacy 
 - [x] Text Representation and Word Embeddings (Word2Vec)
 - [x] Text Classification
 
@@ -97,6 +99,8 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
    - Gourav Gupta 
    - CampusX
    - Serrano Academy 
+   - Jovian 
+   
 
 3. Websites and Blogs:
    - Towards Data Science
