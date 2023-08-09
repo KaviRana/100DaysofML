@@ -69,8 +69,13 @@ Topics I have covered :
 - [x] Types of Neural Networks
 - [x] MLP and MLP notation
 - [x] Loss Functions in model.compile()
-- [ ] Forward Propagation 
-- [ ] Backpropagation Algorithm 
+- [x] Forward Propagation 
+- [x] Backpropagation Algorithm  (and how to improve it using meoisation)
+- [x] Vanishing Gradeint Descent Problem 
+- [x] Fine tuning hyper parameters for improving neural networks  
+- [x] Dropout Layers in Neural Networks
+- [x] Vanishing Gradeint Descent Problem 
+
 
 
 ### Natural Language Processing 
