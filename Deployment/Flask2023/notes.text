@@ -1,0 +1,14 @@
+MVC mental model to think about when you build an application
+# Terms
+## Framework
+A framework is a structured and reusable software platform that provides a foundation for building applications. It offers a set of tools, libraries, and conventions that help developers design, develop, and organize their code in a consistent and efficient manner. Frameworks are typically designed to solve specific types of problems or cater to specific domains, such as web development, mobile app development, or machine learning.
+
+## Microframework
+A microframework is a lightweight and minimalistic version of a full-fledged framework. It provides only the essential tools and features needed to get a project up and running quickly. Microframeworks are designed to be simple, easy to understand, and highly flexible. They are well-suited for small projects or when developers want more control over the architecture and components of their application.
+
+## Flask 
+Flask is a micro web framework written in Python. It is designed to be lightweight, easy to use, and highly flexible, making it an excellent choice for building web applications, APIs, and small to medium-sized projects. Flask provides the necessary tools and components for web development, including routing, request handling, template rendering, and support for extensions.
+Flask is not optimized for real-time applications that require continuous data streaming. In such cases, asynchronous web frameworks like Tornado or FastAPI might be more suitable.
+
+Heavy ORM Requirements: If your project requires advanced database handling and complex object-relational mapping (ORM) capabilities, a more feature-rich framework like Django or SQLAlchemy might be a better fit.
+

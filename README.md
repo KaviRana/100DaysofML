@@ -84,7 +84,7 @@ Topics I have covered :
 ### Deployment 
 - [x] Streamlit for Web applications 
 - [ ] Restful APIs
-- [ ] Flask
+- [x] Flask
 - [ ] Django
 - [ ] AWS 
 
@@ -104,12 +104,14 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
    - CampusX
    - Serrano Academy 
    - Jovian 
+   - Harvard CS50 course on FreeCodeCamp
    
 
 3. Websites and Blogs:
    - Towards Data Science
    - Kaggle Datasets and Notebooks
    - [DataVoyage](https://kavirana.hashnode.dev/)
+
 
 5. Documentation:
    - Scikit-learn Documentation
