@@ -83,12 +83,6 @@ Topics I have covered :
 - [ ] Optimisers
 - [ ] Keras Tuner 
 
-
-
-
-
-
-
 ### Natural Language Processing 
 - [x] Text Preprocessing
 - [x] End to End Pipeline Understandin(Theory)
@@ -111,6 +105,7 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
 1. Books:
    - Storytelling with Data - Willey
    - The Hundred-Page Machine Learning Book - Andriy Burkov
+   - Deep Learning - MIT , Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 2. YouTube Resources
    - Krish Naik 
