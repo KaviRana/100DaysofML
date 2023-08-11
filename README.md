@@ -75,6 +75,17 @@ Topics I have covered :
 - [x] Fine tuning hyper parameters for improving neural networks  
 - [x] Dropout Layers in Neural Networks
 - [x] Vanishing Gradeint Descent Problem 
+- [x] Regularisation Techniques : Early Stopping , Dropout Layers
+- [x] Activation Functions : Tanh(x) function , sigmoid function
+- [ ] Rectified Linear Unit Function and its variants 
+- [ ] Weight Initialisation Techniques 
+- [ ] Batch Normalisation
+- [ ] Optimisers
+- [ ] Keras Tuner 
+
+
+
+
 
 
 
