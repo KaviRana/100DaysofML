@@ -74,11 +74,10 @@ Topics I have covered :
 - [x] Vanishing Gradeint Descent Problem 
 - [x] Fine tuning hyper parameters for improving neural networks  
 - [x] Dropout Layers in Neural Networks
-- [x] Vanishing Gradeint Descent Problem 
 - [x] Regularisation Techniques : Early Stopping , Dropout Layers
 - [x] Activation Functions : Tanh(x) function , sigmoid function
-- [ ] Rectified Linear Unit Function and its variants 
-- [ ] Weight Initialisation Techniques 
+- [x] Rectified Linear Unit Function and its variants 
+- [ ] Weight Initialisation Techniques : with zero , with random , Xavier Glorat , He method
 - [ ] Batch Normalisation
 - [ ] Optimisers
 - [ ] Keras Tuner 
@@ -106,6 +105,8 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
    - Storytelling with Data - Willey
    - The Hundred-Page Machine Learning Book - Andriy Burkov
    - Deep Learning - MIT , Ian Goodfellow and Yoshua Bengio and Aaron Courville
+   - Deep Learning Cookbook - Douwe Osinga
+   - Real world machine learning - Henrik Brink
 
 2. YouTube Resources
    - Krish Naik 
@@ -129,6 +130,10 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
    - TensorFlow Documentation
    - Keras Documentation
    - Streamlit Documentation
+
+## Projects 
+1. Book Recommender System
+2. Spam Classifier System 
 
 ## Conclusion
 
