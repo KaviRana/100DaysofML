@@ -77,9 +77,9 @@ Topics I have covered :
 - [x] Regularisation Techniques : Early Stopping , Dropout Layers
 - [x] Activation Functions : Tanh(x) function , sigmoid function
 - [x] Rectified Linear Unit Function and its variants 
-- [ ] Weight Initialisation Techniques : with zero , with random , Xavier Glorat , He method
-- [ ] Batch Normalisation
-- [ ] Optimisers
+- [x] Weight Initialisation Techniques : with zero , with random , Xavier Glorat , He method
+- [x] Batch Normalisation
+- [x] Optimisers : SDG with momentum , Nesterov , Ada Grad , Adam 
 - [ ] Keras Tuner 
 
 ### Natural Language Processing 
@@ -123,6 +123,7 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
    - Towards Data Science
    - Kaggle Datasets and Notebooks
    - [DataVoyage](https://kavirana.hashnode.dev/)
+   - [weight initialisation techniques](https://mmuratarat.github.io/2019-02-25/xavier-glorot-he-weight-init)
 
 
 5. Documentation:
