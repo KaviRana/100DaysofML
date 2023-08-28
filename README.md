@@ -43,6 +43,7 @@ Topics I have covered :
 - [x] Imputation Techniques  
 
 ### Machine Learning  
+#### Supervised Learning
 - [x] Simple Linear Regression
 - [x] Regression Metrics
 - [x] Multiple Linear Regression
@@ -60,9 +61,12 @@ Topics I have covered :
 - [x] AdaBoosting Ensemble
 - [x] Gradient Boosting Ensemble
 - [x] Stacking Ensemble 
+
+#### UnSupervised Learning
 - [x] K means Clustering
 - [x] Agglomerative Clustering (Hierarchical)
 - [x] DBSCAN Clustering 
+- [ ] Hyperparameter Optimisation Techniques:  
 
 ### Deep Learning
 - [x] Fundamentals of Tensorflow
@@ -73,14 +77,17 @@ Topics I have covered :
 - [x] Backpropagation Algorithm  (and how to improve it using meoisation)
 - [x] Vanishing Gradeint Descent Problem 
 - [x] Fine tuning hyper parameters for improving neural networks  
-- [x] Dropout Layers in Neural Networks
 - [x] Regularisation Techniques : Early Stopping , Dropout Layers
 - [x] Activation Functions : Tanh(x) function , sigmoid function
 - [x] Rectified Linear Unit Function and its variants 
 - [x] Weight Initialisation Techniques : with zero , with random , Xavier Glorat , He method
 - [x] Batch Normalisation
-- [x] Optimisers : SDG with momentum , Nesterov , Ada Grad , Adam 
-- [ ] Keras Tuner 
+- [x] Optimisers : SDG with momentum , Nesterov , Ada Grad , RMSprop , Adam 
+- [ ] Keras Tuner for Hyper parameter tuning
+- [x] Convolutional Neural Network 
+- [x] CNN architecture , pooling functions 
+- [x] Strides and Padding 
+- [ ] Recurrent Neural Network  
 
 ### Natural Language Processing 
 - [x] Text Preprocessing
