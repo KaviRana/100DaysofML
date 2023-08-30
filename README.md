@@ -124,6 +124,7 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
    - Serrano Academy 
    - Jovian 
    - Harvard CS50 course on FreeCodeCamp
+   - [Made with ML](https://madewithml.com/courses/mlops/setup/)
    
 
 3. Websites and Blogs:
@@ -131,6 +132,7 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
    - Kaggle Datasets and Notebooks
    - [DataVoyage](https://kavirana.hashnode.dev/)
    - [weight initialisation techniques](https://mmuratarat.github.io/2019-02-25/xavier-glorot-he-weight-init)
+   - [computational graphs](https://towardsdatascience.com/backpropagation-in-rnn-explained-bdf853b4e1c2)
 
 
 5. Documentation:
