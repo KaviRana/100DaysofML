@@ -102,7 +102,19 @@ Topics I have covered :
 - [ ] Restful APIs
 - [x] Flask
 - [ ] Django
-- [ ] AWS 
+
+### Libraries that I have worked with in these 100Days
+Numpy,Pandas,Matplotlib,Seaborn
+BeautifulSoup
+Tensorflow 
+PandasProfile
+Streamlit
+NLTK
+Sci-Kit Learn
+KerasTuner
+makepipeline
+spacy
+
 
 ## Resources
 
