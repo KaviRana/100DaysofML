@@ -34,11 +34,11 @@ Topics I have covered :
 - [x] Introduction
 - [x] Scaling - Standarsization and Normalisation
 - [x] Encoding Categorical Data - Ordinal Encoding and One Hot Encoding
-- [ ] Column Transformations (Power,Function,Log,Reciprocal,Square Root , Box-Cox and YeoJohnson) 
-- [ ] Binning and Binarization
-- [ ] Discretization
-- [ ] Quantile Binning
-- [ ] KMeans Binning
+- [x] Column Transformations (Power,Function,Log,Reciprocal,Square Root , Box-Cox and YeoJohnson) 
+- [x] Binning and Binarization
+- [x] Discretization
+- [x] Quantile Binning
+- [x] KMeans Binning
 - [x] Principal Component Analysis
 - [x] Imputation Techniques  
 
@@ -156,6 +156,8 @@ During my #100DaysofMachineLearning journey, I'll be using various resources to 
 ## Projects 
 1. Book Recommender System
 2. Spam Classifier System 
+3. Plagiarism Detector
+4. Skincare Recommender App (in progress)
 
 ## Conclusion
 
